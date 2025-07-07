@@ -10,7 +10,6 @@
 - 👯 I’m open to collaborate on **mobile apps that solve real-world problems**.
 - 💬 Ask me about **React Native, JavaScript, Firebase, UI/UX, or mobile testing**.
 - 📫 Reach me: **nenyeikpa@gmail.com**
-- 📱 Check out my app on the [Google Play Store](https://play.google.com/store/apps/details?id=com.usespritzmobile)
 
 ### 🧰 Tech Stack
 <p align="left">
